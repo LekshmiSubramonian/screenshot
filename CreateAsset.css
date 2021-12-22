@@ -1,0 +1,25 @@
+.create-asset{
+    position:relative;
+    align-items: center;
+    padding:30px;
+    display: flex;
+    justify-content: center;
+}
+
+h3{
+    text-align: center;
+}
+
+.asset{
+    width:450px;
+}
+
+.btns{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.form-group{
+    margin-bottom: 30px;
+}
