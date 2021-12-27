@@ -1,0 +1,33 @@
+.view-asset{
+    position: relative;
+    left:68px;
+    width: calc(100% - 68px);
+    padding: 30px;
+}
+
+.table-bordered tr,th{
+    position: relative;
+    border: 1px solid black;
+}
+
+.table {
+    text-align: center;
+}
+
+.view-asset .btn-success {
+    float:right;
+    margin-bottom: 30px;
+}
+
+.asset-label{
+    font-size: 30px;
+}
+
+.asset-icon{
+    font-size:30px;
+    cursor: pointer;
+}
+
+
+
+
