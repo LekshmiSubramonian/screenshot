@@ -1,0 +1,22 @@
+.view-asset{
+    position: relative;
+    left:68px;
+    width: calc(100% - 68px);
+    padding: 30px;
+}
+
+
+.asset-div .asset-label{
+    font-size: 30px;
+}
+
+
+
+ .asset-div{
+    display:flex;
+    justify-content: space-between;
+    margin-bottom:17px;
+ }
+
+
+
